@@ -1,0 +1,5 @@
+# Local project list (contains your own paths) — see projects.example.json
+projects.json
+
+__pycache__/
+*.pyc
