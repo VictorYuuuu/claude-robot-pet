@@ -1,4 +1,4 @@
-﻿# Claude Robot Pet
+# Claude Robot Pet
 
 A small blocky robot ("Clawd"-inspired, drawn from scratch in code — not the
 official artwork) that walks back and forth along the bottom of your screen.
