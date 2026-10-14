@@ -191,6 +191,10 @@ so the walk cycle can alternate which leg is "lifted".
 - The project picker has no add/remove UI on purpose — `projects.json` is
   meant to be hand-edited. No search/filter box either.
 
+## License
+
+[MIT](LICENSE)
+
 ## Disclaimer
 
 Unofficial fan project; not affiliated with or endorsed by Anthropic.
